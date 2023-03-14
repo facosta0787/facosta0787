@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋🏼 Hola, Soy Felipe Acosta
+Soy **JavaScript Full-Stack Developer** con mayor experiencia en el Front-End, tengo alrededor de 10 años
+de experiencia como desarrollador de software, actualmente mi stack preferido para desarrollar es:
 
-<!--
-**facosta0787/facosta0787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- HTML
+- CSS
+- JavaScript
+- ReactJS (NextJS)
+- Node
+- Express
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+📥   [facosta0787@gmail.com](mailto:facosta0787@gmail.com) <br/>
+💼   [https://www.linkedin.com/in/facosta0787/](https://www.linkedin.com/in/facosta0787/)
